@@ -1,0 +1,2 @@
+# Java-Mini
+School managemnet
